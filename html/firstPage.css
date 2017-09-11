@@ -1,14 +1,22 @@
 h3
 {
-    color: rgb(30,127,203);
+    color: white;
+    text-align: center;
 }
 
 .bug {
     height: 15vw;
     width: 15vw;
 
+
 }
 body
 {
     background-color: dimgray;
+}
+
+footer
+{
+    height: 10vw;
+    background-color: rgb(198,8,0);
 }
