@@ -1,0 +1,10 @@
+h3
+{
+    color: rgb(30,127,203);
+}
+
+.bug {
+    height: 14vw;
+    width: 14vw;
+    background-color: dimgray;
+}
