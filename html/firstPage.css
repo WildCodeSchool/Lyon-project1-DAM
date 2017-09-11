@@ -4,7 +4,11 @@ h3
 }
 
 .bug {
-    height: 14vw;
-    width: 14vw;
+    height: 15vw;
+    width: 15vw;
+
+}
+body
+{
     background-color: dimgray;
 }
