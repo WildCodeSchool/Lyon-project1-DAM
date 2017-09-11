@@ -19,7 +19,7 @@
 }
 
 .main-menu {
-    background:#fbfbfb;
+    background:#3379b5;
     border-right:1px solid #e5e5e5;
     position:absolute;
     top:0;
@@ -35,7 +35,7 @@
 }
 
 .main-menu>ul {
-    margin:7px 0;
+    margin:40px 0;
 }
 
 .main-menu li {
