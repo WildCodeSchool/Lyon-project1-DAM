@@ -9,6 +9,10 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="../css/style.css">
+<<<<<<< HEAD
+=======
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+>>>>>>> 738642c53a8703a6c220d6bd07112f3c50e5cf22
     <link rel="stylesheet" href="../css/firstPage.css" />
 
 </head>
