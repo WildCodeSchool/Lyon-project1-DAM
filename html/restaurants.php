@@ -9,9 +9,11 @@
 
 <?php include "../_includes/navigation.php" ?>
 
-<!-- restorants locations -->
+<!-- restaurants locations -->
 
 <div class="container">
+
+<!--Resto Bordeaux -->
 
     <div class="row">
         <div class="col-md-8">
@@ -23,19 +25,21 @@
         <br>
         <br>
         <div class="col-md-4">
+            <h2>Bug Burger - Bordeaux</h2>
             <h2>Adress</h2>
-            <p></p>
+            <h4>15 Place Canteloup,<br><br>
+                33800 Bordeaux</h4>
 
             <h2>Horaires</h2>
-            <p></p>
-
-            <h2>Acces</h2>
-            <p></p>
-
+            <h4>Restaurant ouvert 7j/7 <br> <br>
+                12h – 14h / 19h – 22h</h4>
 
         </div>
     </div>
     <hr>
+
+    <!--Resto La Loupe -->
+
     <div class="row">
         <div class="col-md-8">
 
@@ -44,19 +48,22 @@
 
         </div>
         <div class="col-md-4">
+            <h2>Bug Burger - La Loupe</h2>
             <h2>Adress</h2>
-            <p></p>
+            <h4>18 Rue de la Gare <br><br>
+                28240 La Loupe</h4>
 
             <h2>Horaires</h2>
-            <p></p>
-
-            <h2>Acces</h2>
-            <p></p>
-
+            <h4>Restaurant ouvert 7j/7 <br> <br>
+                12h – 14h / 19h – 22h</h4>
 
         </div>
     </div>
     <hr>
+
+    <!--Resto Lille -->
+
+
     <div class="row">
         <div class="col-md-8">
 
@@ -65,18 +72,110 @@
 
         </div>
         <div class="col-md-4">
+            <h2>Bug Burger - Lille</h2>
             <h2>Adress</h2>
-            <p></p>
+            <h4>4 Avenue des Saules <br><br>
+                59160 Lille</h4>
 
             <h2>Horaires</h2>
-            <p></p>
-
-            <h2>Acces</h2>
-            <p></p>
-
+            <h4>Restaurant ouvert 7j/7 <br> <br>
+                12h – 14h / 19h – 22h</h4>
 
         </div>
     </div>
+    <hr>
+
+    <!--Resto Lyon -->
+
+    <div class="row">
+        <div class="col-md-8">
+
+
+            <iframe class="googmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.2426722067603!2d4.824636651031088!3d45.746280722495335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea4ab604554f%3A0x83e3e33b33887834!2s17+Rue+Delandine%2C+69002+Lyon!5e0!3m2!1sen!2sfr!4v1505307622172" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+        </div>
+        <div class="col-md-4">
+            <h2>Bug Burger - Lyon</h2>
+            <h2>Adress</h2>
+            <h4>17 Rue Delandine <br><br>
+                69002 Lyon</h4>
+
+            <h2>Horaires</h2>
+            <h4>Restaurant ouvert 7j/7 <br> <br>
+                12h – 14h / 19h – 22h</h4>
+
+        </div>
+    </div>
+    <hr>
+
+    <!--Resto Orleans -->
+
+    <div class="row">
+        <div class="col-md-8">
+
+
+            <iframe class="googmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2675.1915730920136!2d1.891984151098238!3d47.89397727597285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e4e52661ecb4eb%3A0x86bbb8261faea07!2s1+Avenue+du+Champ+de+Mars%2C+45100+Orl%C3%A9ans!5e0!3m2!1sen!2sfr!4v1505307804449" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+        </div>
+        <div class="col-md-4">
+            <h2>Bug Burger - Orleans</h2>
+            <h2>Adress</h2>
+            <h4>1 Avenue du Champ de Mars <br><br>
+                45100 Orléans</h4>
+
+            <h2>Horaires</h2>
+            <h4>Restaurant ouvert 7j/7 <br> <br>
+                12h – 14h / 19h – 22h</h4>
+
+        </div>
+    </div>
+    <hr>
+    <!--Resto Paris -->
+
+    <div class="row">
+        <div class="col-md-8">
+
+
+            <iframe class="googmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.4789962838922!2d2.3504061511289738!3d48.849075809215016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671e4fa5fdbf9%3A0x5dcb5a09cff26472!2s11+Rue+de+Poissy%2C+75005+Paris!5e0!3m2!1sen!2sfr!4v1505307876833" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+        </div>
+        <div class="col-md-4">
+            <h2>Bug Burger - Paris</h2>
+            <h2>Adress</h2>
+            <h4>11 Rue de Poissy <br><br>
+                75005 Paris</h4>
+
+            <h2>Horaires</h2>
+            <h4>Restaurant ouvert 7j/7 <br> <br>
+                12h – 14h / 19h – 22h</h4>
+
+        </div>
+    </div>
+    <hr>
+
+    <!--Resto Toulouse -->
+
+    <div class="row">
+        <div class="col-md-8">
+
+
+            <iframe class="googmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2889.241023090167!2d1.4398347509667566!3d43.601522963686485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12aebb62f2131421%3A0xfca615e480acd9f4!2s1+Place+de+la+Bourse%2C+31000+Toulouse!5e0!3m2!1sen!2sfr!4v1505307924205" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+        </div>
+        <div class="col-md-4">
+            <h2>Bug Burger - Toulouse</h2>
+            <h2>Adress</h2>
+            <h4>1 Place de la Bourse <br><br>
+                31000 Toulouse</h4>
+
+            <h2>Horaires</h2>
+            <h4>Restaurant ouvert 7j/7 <br> <br>
+                12h – 14h / 19h – 22h</h4>
+
+        </div>
+    </div>
+    <hr>
+
 </div>
 
 
