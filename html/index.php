@@ -1,62 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
 
-    <title>BugBurger</title>
+<?php include "../_includes/head.php" ?>
 
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
-    <link rel="stylesheet" type="text/css" href="../css/style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="firstPage.css" />
-
-</head>
 <body>
 
 <!-- Navigation bar -->
-<div class="area"></div><nav class="main-menu">
-    <ul>
-        <li>
-            <a href="index.html">
-                <i class="fa fa-home fa-2x"></i>
-                <span class="nav-text">Accueil</span>
-            </a>
-
-        </li>
-        <br>
-        <li class="has-subnav">
-            <a href="#">
-                <i class="fa fa-cutlery fa-2x"></i>
-                <span class="nav-text">La Carte</span>
-            </a>
-        </li>
-        <br>
-        <li class="has-subnav">
-            <a href="#">
-                <i class="fa fa-map-marker fa-2x"></i>
-                <span class="nav-text">Restorants</span>
-            </a>
-
-        </li>
-        <br>
-        <li class="has-subnav">
-            <a href="#">
-                <i class="fa fa-users fa-2x"></i>
-                <span class="nav-text">Equipe</span>
-            </a>
-
-        </li>
-        <br>
-        <li>
-            <a href="#">
-                <i class="fa fa-globe fa-2x"></i>
-                <span class="nav-text">Contact</span>
-            </a>
-        </li>
-    </ul>
-
-</nav>
+<?php include "../_includes/navigation.php" ?>
 <!-- Main container -->
 <div class="container-fluid">
 
@@ -114,14 +64,14 @@
 </div>
 
 
+<!-- JS scripts -->
+
 <script src="https://use.fontawesome.com/2e8d9444e4.js"></script>
-
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 </body>
 <footer>
-
+    <?php include "../_includes/footer.php" ?>
 </footer>
 </html>

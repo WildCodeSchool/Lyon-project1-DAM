@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
 <div id="footer-wrapper">
     <footer id="goToDown">
         <div class="container initialPos">
@@ -45,6 +37,3 @@
         </div>
     </footer>
 </div>
-
-</body>
-</html>
