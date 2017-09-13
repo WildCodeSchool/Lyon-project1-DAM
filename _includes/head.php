@@ -7,6 +7,6 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
     <link rel="stylesheet" type="text/css" href="../css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="firstPage.css" />
+    <link rel="stylesheet" href="../css/firstPage.css" />
 
 </head>
