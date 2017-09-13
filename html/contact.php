@@ -10,112 +10,135 @@
 
 <!-- Contact -->
 
-<div class="container initialPos">
-    <div class="content">
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<br>
+<div class="container">
 
-            <div class="block">
-                <div class="section section-form">
-                    <div class="text-center margB-100p">
-                        <p>
-                            Une question ? Une réclamation ?<br/>
-                            Bug Burger est à votre écoute
-                        </p>
+    <form class="well form-horizontal" action=" " method="POST"  id="contact_form">
+        <fieldset>
+
+            <!-- Form Name -->
+            <legend>Une question ? Une réclamation ?
+                Bug Burger est à votre écoute</legend>
+
+            <!-- Text input-->
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Prenom</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                        <input  name="first_name" placeholder="Prenom" class="form-control"  type="text">
                     </div>
-                    <form class="contact-form">
-                        <div class="row row-centered">
-                            <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 col-pad col-centered">
-                                <div class="form-group">
-                                    <label for="nom">Nom *</label>
-                                    <input type="text" class="form-control" id="nom" placeholder="" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="prenom">Prénom *</label>
-                                    <input type="text" class="form-control" id="prenom" placeholder="" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="email">Email *</label>
-                                    <input type="email" class="form-control" id="email" placeholder="" required>
-                                </div>
-                                <div class="form-group">
-                                    <label for="tel">Téléphone Mobile *</label>
-                                    <input type="text" class="form-control" id="tel" placeholder="" required>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 col-pad col-centered ">
-
-                                <div class="form-group">
-                                    <label for="restauCon">Restaurant concerné</label>
-
-                                    <select class="form-control" name="restauCon" id="restauCon">
-                                        <option value="Lyon">Lyon</option>
-                                        <option value="La Loupe">La loupe</option>
-                                        <option value="Paris">Paris</option>
-                                        <option value="Bordeaux">Bordeaux</option>
-                                        <option value="Toulouse">Toulouse</option>
-                                        <option value="Lille">Lille</option>
-                                        <option value="Strasbourg">Strasbourg</option>
-                                    </select>
-
-
-                                </div>
-
-
-                                <div class="form form-group">
-                                    <label for="sujet" class="col-md-3 control-label">Sujet</label>
-
-                                    <select class="form-control" name="sujet" id="sujet">
-                                        <option value="reclamation">Une réclamation</option>
-                                        <option value="question">Une question</option>
-                                        <option value="partenariat">Un partenariat</option>
-                                        <option value="resa groupe">Une réservation de groupe</option>
-                                        <option value="autre">Autre</option>
-                                    </select>
-                                    <label for="sujet" class="control-label" style="display:none;">Autre</label>
-                                    <input name="sujet_autre" id="sujet_autre" type="text" style="display:none;">
-
-                                </div>
-
-
-                                <div class="form-group">
-                                    <label for="commentaire">Commentaire libre *</label>
-                                    <textarea class="form-control" id="commentaire" rows="5"></textarea>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <hr/>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-                                <div class="form-group">
-                                    <button id="btn-send-mail-contact" class="btn btn-block btn-send" type="submit">
-                                        ENVOYER
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="msgBox">
-
-                            <h4>&nbsp;</h4>
-                            <p>&nbsp;</p>
-                        </div>
-                    </form>
                 </div>
             </div>
 
-        </div>
-    </div>
+            <!-- Text input-->
+
+            <div class="form-group">
+                <label class="col-md-4 control-label" >Nom</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                        <input name="last_name" placeholder="Nom" class="form-control"  type="text">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Text input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label">Mail</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+                        <input name="email" placeholder="Mail" class="form-control"  type="text">
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Text input-->
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Phone</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+                        <input name="phone" placeholder="(+33)55-51-21-12" class="form-control" type="text">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Select Basic -->
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Restaurant concerné</label>
+                <div class="col-md-4 selectContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-list"></i></span>
+                        <select name="state" class="form-control selectpicker" >
+                            <option value=" " >Please select your restaurant</option>
+                            <option>Bordeaux</option>
+                            <option>Lyon</option>
+                            <option >La loupe</option>
+                            <option >Paris</option>
+                            <option >Toulouse</option>
+                            <option >Lille</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Select Basic -->
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Sujet</label>
+                <div class="col-md-4 selectContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-list"></i></span>
+                        <select name="state" class="form-control selectpicker" >
+                            <option value=" " >Please select your sujet</option>
+                            <option>Une réclamation</option>
+                            <option>Une question</option>
+                            <option >Un partenariat</option>
+                            <option >Une réservation de groupe</option>
+                            <option >Autre</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Text area -->
+
+            <div class="form-group">
+                <label class="col-md-4 control-label">Votre message</label>
+                <div class="col-md-4 inputGroupContainer">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
+                        <textarea class="form-control" name="comment" placeholder="Votre message"></textarea>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Button -->
+            <div class="form-group">
+                <label class="col-md-4 control-label"></label>
+                <div class="col-md-4">
+                    <button type="submit" class="btn btn-warning" >Send <span class="glyphicon glyphicon-send"></span></button>
+                </div>
+            </div>
+
+        </fieldset>
+    </form>
 </div>
+</div><!-- /.container -->
+
+
+<!-- Scripts -->
 
 <script src="https://use.fontawesome.com/2e8d9444e4.js"></script>
-
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"
         integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
         integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
         crossorigin="anonymous"></script>
