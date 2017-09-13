@@ -128,3 +128,12 @@ nav ul,nav li {
 .googmap{
     border-radius: 30px;
 }
+
+#footer-wrapper{
+    background-color: black;
+}
+
+.container-fluid {
+
+    text-align: center;
+}
