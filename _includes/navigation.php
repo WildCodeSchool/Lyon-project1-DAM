@@ -24,7 +24,7 @@
         </li>
         <br>
         <li class="has-subnav">
-            <a href="history.php">
+            <a href="construction.php">
                 <i class="fa fa-users fa-2x"></i>
                 <span class="nav-text">Notre Histoire</span>
             </a>
