@@ -11,14 +11,14 @@
         <li class="has-subnav">
             <a href="carte.php">
                 <i class="fa fa-cutlery fa-2x"></i>
-                <span class="nav-text">La Carte</span>
+                <span class="nav-text">Nos Burgers</span>
             </a>
         </li>
         <br>
         <li class="has-subnav">
             <a href="restaurants.php">
                 <i class="fa fa-map-marker fa-2x"></i>
-                <span class="nav-text">Restorants</span>
+                <span class="nav-text">Restaurants</span>
             </a>
 
         </li>
@@ -26,7 +26,7 @@
         <li class="has-subnav">
             <a href="history.php">
                 <i class="fa fa-users fa-2x"></i>
-                <span class="nav-text">History</span>
+                <span class="nav-text">Notre Histoire</span>
             </a>
 
         </li>
