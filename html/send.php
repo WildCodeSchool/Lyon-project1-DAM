@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- redirect to home
+<!-- redirect to home-->
 <meta http-equiv="refresh" content="3;URL='index.php'" />
--->
+
 <?php include "../_includes/head.php" ?>
 
 <body>
