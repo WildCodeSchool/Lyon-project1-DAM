@@ -1,13 +1,6 @@
-<!-- <?php
-
-header("refresh:5; url= index.php");
-exit();
-
-?> -->
-
 <!DOCTYPE html>
 <html lang="en">
-
+<meta http-equiv="refresh" content="3;URL='index.php'" />
 <?php include "../_includes/head.php" ?>
 
 <body>
@@ -35,3 +28,4 @@ exit();
     <?php include "../_includes/footer.php" ?>
 </footer>
 </html>
+
