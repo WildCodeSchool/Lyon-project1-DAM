@@ -8,7 +8,7 @@
 <!-- Navigation bar -->
 <?php include "../_includes/navigation.php" ?>
 <!-- Main container -->
-<div class="container">
+<div class="container-fluid">
 
     <div class="row">
         <div class="bug col-lg-3">
