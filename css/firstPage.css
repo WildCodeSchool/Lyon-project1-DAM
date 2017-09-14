@@ -20,9 +20,10 @@ img{
 }
 
 .bug {
-    height: 24vw;
-    width: 24vw;
-    margin-left: 15px;
+    height: 20vw;
+    width: 20vw;
+    margin-left: 70px;
+    margin-right: auto;
     image-orientation: center;
 
 

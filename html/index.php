@@ -31,14 +31,14 @@
             <h3>Le saviez vous ?</h3>
         </div>
         <div class="bug col-lg-3">
-            <img class="displayed" src= "https://i.pinimg.com/736x/17/e6/cd/17e6cd58825c68548e49ee33779c29d4--beautiful-bugs-amazing-nature.jpg" style= "width: 20vw; height: 20vw" alt="chenille" />
+            <img class="displayed" src= "https://i.pinimg.com/736x/17/e6/cd/17e6cd58825c68548e49ee33779c29d4--beautiful-bugs-amazing-nature.jpg" style= "width: 19vw; height: 19vw" alt="chenille" />
 
         </div>
         <div class="bug col-lg-3">
             <h3>Le saviez vous ?</h3>
         </div>
         <div class="bug col-lg-3">
-            <img class="displayed" src=http://www.stephane-lhote.com/phototheque/nature/insectes-malaisie-2/insectes-malaisie-01.jpg style="width: 20vw; height: 20vw" alt="sauterelle" />
+            <img class="displayed" src=http://www.stephane-lhote.com/phototheque/nature/insectes-malaisie-2/insectes-malaisie-01.jpg style="width: 19vw; height: 19vw" alt="sauterelle" />
 
         </div>
 
@@ -52,7 +52,7 @@
             <h3>Le saviez vous ?</h3>
         </div>
         <div class="bug col-lg-3">
-            <img src="http://www.papado.fr/wp-content/uploads/2014/02/leshortelle-logo-made-in-france.png" style="width: 20vw; height: 20vw" alt="cicket" />
+            <img src="http://www.papado.fr/wp-content/uploads/2014/02/leshortelle-logo-made-in-france.png" style="width: 19vw; height: 19vw" alt="cicket" />
 
         </div>
         <div class="bug col-lg-3">
