@@ -23,9 +23,10 @@ if ($_POST){
 
 <!-- Contact -->
 
+<img class="displayed" src="https://media.mercola.com/ImageServer/Public/2015/December/organic-food-on-board-fb.jpg" style="width: 50%; height: 50%; margin-top: auto" alt="organic" />
+
 <br>
 <div class="container">
-
     <form class="well form-horizontal" action=" " method="POST"  id="contact_form" >
         <fieldset>
 
@@ -35,7 +36,7 @@ if ($_POST){
 
             <!-- Text input-->
 
-            <div class="form-group">
+            <div class="form-group contact">
                 <label class="col-md-4 control-label">Prenom</label>
                 <div class="col-md-4 inputGroupContainer">
                     <div class="input-group">
@@ -76,7 +77,7 @@ if ($_POST){
                 <div class="col-md-4 inputGroupContainer">
                     <div class="input-group">
                         <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
-                        <input name="phone" placeholder="(+33)55-51-21-12" class="form-control" type="text" required>
+                        <input name="phone" placeholder="(+33)55-51-21-12" class="form-control" pattern="^(?:0|\(?\+33\)?\s?|0033\s?)[1-79](?:[\.\-\s]?\d\d){4}$" type="text" required>
                     </div>
                 </div>
             </div>
@@ -123,7 +124,7 @@ if ($_POST){
             <!-- Text area -->
 
             <div class="form-group">
-                <label class="col-md-4 control-label">Votre message</label>
+                <label class="col-md-4 control-label">Votre Message</label>
                 <div class="col-md-4 inputGroupContainer">
                     <div class="input-group">
                         <span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
@@ -137,7 +138,7 @@ if ($_POST){
             <div class="form-group">
                 <label class="col-md-4 control-label"></label>
                 <div class="col-md-4">
-                    <button type="submit" class="btn btn-warning" >Send <span class="glyphicon glyphicon-send"></span></button>
+                    <button type="submit" class="btn btn-warning" >Send<span class="glyphicon glyphicon-send"></span></button>
                 </div>
             </div>
 
