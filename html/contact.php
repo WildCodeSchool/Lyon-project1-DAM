@@ -1,3 +1,16 @@
+<?php
+
+$errors = array();
+
+if ($_POST){
+
+    if (count($errors) == 0){
+    header("Location: send.php");
+    exit();
+    };
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,7 +26,7 @@
 <br>
 <div class="container">
 
-    <form class="well form-horizontal" action=" " method="POST"  id="contact_form">
+    <form class="well form-horizontal" action=" " method="POST"  id="contact_form" >
         <fieldset>
 
             <!-- Form Name -->
@@ -27,7 +40,7 @@
                 <div class="col-md-4 inputGroupContainer">
                     <div class="input-group">
                         <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-                        <input  name="first_name" placeholder="Prenom" class="form-control"  type="text">
+                        <input  name="first_name" placeholder="Prenom" class="form-control"  type="text" required>
                     </div>
                 </div>
             </div>
@@ -39,7 +52,7 @@
                 <div class="col-md-4 inputGroupContainer">
                     <div class="input-group">
                         <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-                        <input name="last_name" placeholder="Nom" class="form-control"  type="text">
+                        <input name="last_name" placeholder="Nom" class="form-control"  type="text" required>
                     </div>
                 </div>
             </div>
@@ -50,7 +63,7 @@
                 <div class="col-md-4 inputGroupContainer">
                     <div class="input-group">
                         <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
-                        <input name="email" placeholder="Mail" class="form-control"  type="text">
+                        <input name="email" placeholder="Mail" class="form-control"  type="text" required>
                     </div>
                 </div>
             </div>
@@ -63,7 +76,7 @@
                 <div class="col-md-4 inputGroupContainer">
                     <div class="input-group">
                         <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
-                        <input name="phone" placeholder="(+33)55-51-21-12" class="form-control" type="text">
+                        <input name="phone" placeholder="(+33)55-51-21-12" class="form-control" type="text" required>
                     </div>
                 </div>
             </div>
@@ -75,7 +88,7 @@
                 <div class="col-md-4 selectContainer">
                     <div class="input-group">
                         <span class="input-group-addon"><i class="glyphicon glyphicon-list"></i></span>
-                        <select name="state" class="form-control selectpicker" >
+                        <select name="state" class="form-control selectpicker"  required>
                             <option value=" " >Please select your restaurant</option>
                             <option>Bordeaux</option>
                             <option>Lyon</option>
@@ -95,7 +108,7 @@
                 <div class="col-md-4 selectContainer">
                     <div class="input-group">
                         <span class="input-group-addon"><i class="glyphicon glyphicon-list"></i></span>
-                        <select name="state" class="form-control selectpicker" >
+                        <select name="state" class="form-control selectpicker" required>
                             <option value=" " >Please select your sujet</option>
                             <option>Une réclamation</option>
                             <option>Une question</option>
@@ -130,7 +143,6 @@
 
         </fieldset>
     </form>
-</div>
 </div><!-- /.container -->
 
 
