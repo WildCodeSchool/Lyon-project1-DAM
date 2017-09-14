@@ -1,7 +1,22 @@
+
+.logo{
+    display: block;
+    margin-top: 20%;
+    font-family: fantasy;
+    color: white;
+    font-size: 80px;
+}
+
 h3
 {
     color: white;
     text-align: center;
+}
+
+img{
+
+
+    margin-top: 10%;
 }
 
 .bug {
@@ -9,6 +24,7 @@ h3
     width: 24vw;
     margin-left: 15px;
     image-orientation: center;
+
 
 
 }
@@ -19,7 +35,10 @@ body
 
 img.displayed {
     display: block;
+
     margin-left: auto;
     margin-right: auto;
+    margin-top: 10%;
+    border-radius: 50%;
 
 }
