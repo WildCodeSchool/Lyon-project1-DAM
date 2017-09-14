@@ -1,31 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
 
-    <title>BUG BURGER</title>
+<?php include "../_includes/head.php" ?>
 
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"
-          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
-    <link rel="stylesheet" type="text/css" href="../css/style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="firstPage.css"/>
-
-</head>
 <body>
 
 <!-- Navigation bar -->
-<?php include 'naviagtion.php'; ?>
+
+<?php include "../_includes/navigation.php" ?>
 
 <!-- Legal Mention -->
 
-<h2>Informations légales</h2>
-<h3>1. Présentation du site.</h3>
-<p>En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est
+<h2>
+    Informations légales
+</h2>
+
+<h3>
+    1. Présentation du site.
+</h3>
+
+<p>
+    En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est
     précisé aux utilisateurs du site <a href="http://www.bugburger.com/">www.bugburger.com</a> l'identité des différents
-    intervenants dans le cadre de sa réalisation et de son suivi :</p>
-<p><strong>Propriétaire</strong> : Bug Burger – – 17 rue Delandine, 69002 Lyon<br/>
+    intervenants dans le cadre de sa réalisation et de son suivi :
+</p>
+
+<p>
+    <strong>Propriétaire</strong> : Bug Burger – – 17 rue Delandine, 69002 Lyon<br/>
     <strong>Créateur</strong> : <a href="https://wildcodeschool.fr/lyon/">DAM</a><br/>
     <strong>Responsable publication</strong> : DAM – 0606060606<br/>
     Le responsable publication est une personne physique ou une personne morale.<br/>
@@ -34,44 +35,93 @@
     Crédits : Darin MATEEV, Manuel BRIAND et Andy RAZANAMAZAVA<br/>
     Les mentions légales ont été générées et offertes par Subdelirium <a target="_blank"
                                                                          href="http://www.subdelirium.com/generateur-de-mentions-legales/">Mentions
-        légales</a></p>
+        légales</a>
+</p>
 
-<h3>2. Conditions générales d’utilisation du site et des services proposés.</h3>
-<p>L’utilisation du site <a href="http://www.bugburger.com/">www.bugburger.com</a> implique l’acceptation pleine et
+<h3>
+    2. Conditions générales d’utilisation du site et des services proposés.
+</h3>
+
+<p>
+    L’utilisation du site <a href="http://www.bugburger.com/">www.bugburger.com</a> implique l’acceptation pleine et
     entière des conditions générales d’utilisation ci-après décrites. Ces conditions d’utilisation sont susceptibles
     d’être modifiées ou complétées à tout moment, les utilisateurs du site <a href="http://www.bugburger.com/">www.bugburger.com</a>
-    sont donc invités à les consulter de manière régulière.</p>
-<p>Ce site est normalement accessible à tout moment aux utilisateurs. Une interruption pour raison de maintenance
+    sont donc invités à les consulter de manière régulière.
+</p>
+
+<p>
+    Ce site est normalement accessible à tout moment aux utilisateurs. Une interruption pour raison de maintenance
     technique peut être toutefois décidée par Bug Burger, qui s’efforcera alors de communiquer préalablement aux
-    utilisateurs les dates et heures de l’intervention.</p>
-<p>Le site <a href="http://www.bugburger.com/">www.bugburger.com</a> est mis à jour régulièrement par DAM. De la même
+    utilisateurs les dates et heures de l’intervention.
+</p>
+
+<p>
+    Le site <a href="http://www.bugburger.com/">www.bugburger.com</a> est mis à jour régulièrement par DAM. De la même
     façon, les mentions légales peuvent être modifiées à tout moment : elles s’imposent néanmoins à l’utilisateur qui
-    est invité à s’y référer le plus souvent possible afin d’en prendre connaissance.</p>
-<h3>3. Description des services fournis.</h3>
-<p>Le site <a href="http://www.bugburger.com/">www.bugburger.com</a> a pour objet de fournir une information concernant
-    l’ensemble des activités de la société.</p>
-<p>Bug Burger s’efforce de fournir sur le site <a href="http://www.bugburger.com/">www.bugburger.com</a> des
+    est invité à s’y référer le plus souvent possible afin d’en prendre connaissance.
+</p>
+
+<h3>
+    3. Description des services fournis.
+</h3>
+
+<p>
+    Le site <a href="http://www.bugburger.com/">www.bugburger.com</a> a pour objet de fournir une information concernant
+    l’ensemble des activités de la société.
+</p>
+
+<p>
+    Bug Burger s’efforce de fournir sur le site <a href="http://www.bugburger.com/">www.bugburger.com</a> des
     informations aussi précises que possible. Toutefois, il ne pourra être tenue responsable des omissions, des
     inexactitudes et des carences dans la mise à jour, qu’elles soient de son fait ou du fait des tiers partenaires qui
-    lui fournissent ces informations.</p>
-<p>Tous les informations indiquées sur le site <a href="http://www.bugburger.com/">www.bugburger.com</a> sont données à
+    lui fournissent ces informations.
+</p>
+
+<p>
+    Tous les informations indiquées sur le site <a href="http://www.bugburger.com/">www.bugburger.com</a> sont données à
     titre indicatif, et sont susceptibles d’évoluer. Par ailleurs, les renseignements figurant sur le site <a
             href="http://www.bugburger.com/">www.bugburger.com</a> ne sont pas exhaustifs. Ils sont donnés sous réserve
-    de modifications ayant été apportées depuis leur mise en ligne.</p>
-<h3>4. Limitations contractuelles sur les données techniques.</h3>
-<p>Le site utilise la technologie JavaScript.</p>
-<p>Le site Internet ne pourra être tenu responsable de dommages matériels liés à l’utilisation du site. De plus,
+    de modifications ayant été apportées depuis leur mise en ligne.
+</p>
+
+<h3>
+    4. Limitations contractuelles sur les données techniques.
+</h3>
+
+<p>
+    Le site utilise la technologie JavaScript.
+</p>
+
+<p>
+    Le site Internet ne pourra être tenu responsable de dommages matériels liés à l’utilisation du site. De plus,
     l’utilisateur du site s’engage à accéder au site en utilisant un matériel récent, ne contenant pas de virus et avec
-    un navigateur de dernière génération mis-à-jour</p>
-<h3>5. Propriété intellectuelle et contrefaçons.</h3>
-<p>Bug Burger est propriétaire des droits de propriété intellectuelle ou détient les droits d’usage sur tous les
-    éléments accessibles sur le site, notamment les textes, images, graphismes, logo, icônes, sons, logiciels.</p>
-<p>Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site,
-    quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de : Bug Burger.</p>
-<p>Toute exploitation non autorisée du site ou de l’un quelconque des éléments qu’il contient sera considérée comme
+    un navigateur de dernière génération mis-à-jour
+</p>
+
+<h3>
+    5. Propriété intellectuelle et contrefaçons.
+</h3>
+
+<p>
+    Bug Burger est propriétaire des droits de propriété intellectuelle ou détient les droits d’usage sur tous les
+    éléments accessibles sur le site, notamment les textes, images, graphismes, logo, icônes, sons, logiciels.
+</p>
+
+<p>
+    Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site,
+    quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de : Bug Burger.
+</p>
+
+<p>
+    Toute exploitation non autorisée du site ou de l’un quelconque des éléments qu’il contient sera considérée comme
     constitutive d’une contrefaçon et poursuivie conformément aux dispositions des articles L.335-2 et suivants du Code
-    de Propriété Intellectuelle.</p>
-<h3>6. Limitations de responsabilité.</h3>
+    de Propriété Intellectuelle.
+</p>
+
+<h3>
+    6. Limitations de responsabilité.
+</h3>
+
 <p>Bug Burger ne pourra être tenue responsable des dommages directs et indirects causés au matériel de l’utilisateur,
     lors de l’accès au site www.bugburger.com, et résultant soit de l’utilisation d’un matériel ne répondant pas aux
     spécifications indiquées au point 4, soit de l’apparition d’un bug ou d’une incompatibilité.</p>
@@ -146,7 +196,17 @@
     l'identification des personnes physiques auxquelles elles s'appliquent » (article 4 de la loi n° 78-17 du 6 janvier
     1978).</p>
 
-<?php include 'footer.php'; ?>
+<!-- JS scripts -->
+
+<script src="https://use.fontawesome.com/2e8d9444e4.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
 
 </body>
+<footer>
+    <?php include "../_includes/footer.php" ?>
+</footer>
 </html>

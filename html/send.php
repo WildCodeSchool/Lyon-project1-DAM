@@ -11,7 +11,7 @@
 <!-- Main container -->
 
 <div class="container">
-    <div class="alert alert-success" role="alert">Your message has been send! You'be redirected to our home page</div>
+    <div class="alert alert-success" role="alert">Votre message a été transmis! Vous allez être redirigez vers la page d'accueil</div>
 </div>
 
 

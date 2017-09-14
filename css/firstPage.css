@@ -2,20 +2,18 @@
 .logo{
     display: block;
     margin-top: 20%;
-    font-family: fantasy;
-    color: white;
+    font-family: Cabin Sketch;
+    color: #454D56;
     font-size: 80px;
 }
 
-h3
+h4
 {
-    color: white;
+    color: #454D56;
     text-align: center;
 }
 
 img{
-
-
     margin-top: 10%;
 }
 
@@ -31,7 +29,11 @@ img{
 }
 body
 {
+    margin-left: 70px;
     background-color: #FFF7F0;
+    font-family: Patrick Hand, cursive;
+    font-size: 20px;
+
 }
 
 img.displayed {
@@ -41,5 +43,12 @@ img.displayed {
     margin-right: auto;
     margin-top: 10%;
     border-radius: 50%;
+
+}
+
+
+footer{
+    background-color: #F0882D;
+    color: white;
 
 }
