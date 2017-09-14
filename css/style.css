@@ -145,3 +145,10 @@ nav ul,nav li {
 .contact{
 
 }
+
+.adresse {
+    text-align: center;
+    background-color: #BE4F3B;
+    border-radius: 10%;
+    color: white;
+}

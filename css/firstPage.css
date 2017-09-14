@@ -2,18 +2,14 @@
 .logo{
     display: block;
     margin-top: 20%;
-<<<<<<< HEAD
+
     font-family: Cabin Sketch;
     color: #454D56;
     font-size: 80px;
-=======
-    font-family: fantasy;
-    color: white;
-    font-size: 60px;
->>>>>>> a6dda3072116ea3b03a43a4dafa944e8ce443fc1
+
 }
 
-h4
+h3
 {
     color: #454D56;
     text-align: center;
