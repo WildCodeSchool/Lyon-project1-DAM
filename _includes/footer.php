@@ -8,10 +8,10 @@
                             <div class="row">
                                 <div class="col-sm-12">
                                     <ul class="text-left">
-                                        <li><a href="">Nos Burgers</a></li>
-                                        <li><a href="">Notre équipe</a></li>
-                                        <li><a href="">Nos Restaurants</a></li>
-                                        <li><a href="">FAQ</a></li>
+                                        <li><a href="carte.php">Nos Burgers</a></li>
+                                        <li><a href="history.php">Notre équipe</a></li>
+                                        <li><a href="restaurants.php">Nos Restaurants</a></li>
+                                        <li><a href="FAQ.php">FAQ</a></li>
                                     </ul>
                                 </div>
                             </div>
