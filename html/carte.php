@@ -2,7 +2,8 @@
 <html lang="en">
 
 <?php include "../_includes/head.php" ?>
-
+<!-- header -->
+<?php include "../_includes/header.php" ?>
 <body>
 
 <!-- Navigation bar -->

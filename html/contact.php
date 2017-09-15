@@ -15,7 +15,8 @@ if ($_POST){
 <html lang="en">
 
 <?php include "../_includes/head.php" ?>
-
+<!-- header -->
+<?php include "../_includes/header.php" ?>
 <body>
 
 <!-- Navigation bar -->
@@ -23,9 +24,6 @@ if ($_POST){
 
 <!-- Contact -->
 
-<img class="displayed" src="https://media.mercola.com/ImageServer/Public/2015/December/organic-food-on-board-fb.jpg" style="width: 50%; height: 50%; margin-top: auto" alt="organic" />
-
-<br>
 <div class="container">
     <form class="well form-horizontal" action=" " method="POST"  id="contact_form" >
         <fieldset>
