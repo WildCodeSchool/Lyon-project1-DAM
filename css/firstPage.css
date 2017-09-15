@@ -37,9 +37,10 @@ img.displayed {
 
 }
 
-
 footer{
     background-color: #F0882D;
     color: white;
-
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }

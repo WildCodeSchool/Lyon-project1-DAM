@@ -52,7 +52,7 @@
     border-collapse:collapse;
     border-spacing:0;
     color:#999;
-    font-family: arial;
+    font-family: Arial;
     font-size: 14px;
     text-decoration:none;
     -webkit-transform:translateZ(0) scale(1,1);
@@ -140,10 +140,6 @@ nav ul,nav li {
 .container-fluid {
 
     text-align: center;
-}
-
-.contact{
-
 }
 
 .adresse {
