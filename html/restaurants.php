@@ -14,16 +14,15 @@
 <div class="container">
 
 <!--Resto Bordeaux -->
+    <h1>Nos Restaurants :<br> <br></h1>
 
     <div class="row">
         <div class="col-md-8">
-            <h1>Nos Restaurants :<br> <br></h1>
+
 
             <iframe class="googmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1414.70336915776!2d-0.5671161240249523!3d44.83364949685665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5527cba74d1bdf%3A0xb81d5dd07bca4e2e!2s15+Place+Canteloup%2C+33800+Bordeaux!5e0!3m2!1sen!2sfr!4v1505305249997" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
         </div>
-        <br>
-        <br>
         <div class="adresse col-md-4">
             <h2>Bug Burger - Bordeaux</h2>
             <h2>Adresse</h2>
