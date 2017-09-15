@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <title>Under Construction</title>
     <?php include "../_includes/head.php" ?>
-    
+    <!-- header -->
+    <?php include "../_includes/header.php" ?>
 </head>
 <body>
 
@@ -12,18 +13,6 @@
 <?php include "../_includes/navigation.php" ?>
 
 <div class="container-fluid">
-    <div class="row">
-        <div class="col-md-4 col-md-offset-1">
-            <div class="logo">Bug Burger</div>
-        </div>
-
-        <div class="col-md-4 col-md-offset-2">
-            <img class="displayed" src="http://media.istockphoto.com/vectors/food-fastfood-silhouette-icon-hamburger-vector-id665571354?k=6&m=665571354&s=612x612&w=0&h=mEDPUQS__-iFlVnrn5SXNYr-elvlqO9ChlfrTS9FC8I=" style="width: 20vw; height: 10vw" alt="hamburger" />
-        </div>
-
-    </div>
-    <hr>
-
     <!-- Alert message-->
     <img class="img" src="http://www.manusamoa.com/images/Under-construction.png" style="margin-top: auto" alt="under">
 </div>

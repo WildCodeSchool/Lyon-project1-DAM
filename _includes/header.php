@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="col-lg-3">
+    <div class="col-lg-3 col-lg-offset-1">
         <div class="logo">
             BugBurger
         </div>
