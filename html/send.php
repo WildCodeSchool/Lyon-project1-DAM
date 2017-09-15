@@ -24,13 +24,12 @@
     <br><br>
     <hr>
 
-<<<<<<< HEAD
+    <!-- Alert message-->
+
 <div class="container">
     <div class="alert alert-success" role="alert">Votre message a été transmis! Vous allez être redirigez vers la page d'accueil</div>
-=======
-    <!-- Alert message-->
-    <div class="alert alert-success col-md-4 col-md-offset-4" role="alert">Your message has been send!</div>
->>>>>>> a6dda3072116ea3b03a43a4dafa944e8ce443fc1
+
+
 </div>
 
 
@@ -43,8 +42,5 @@
 
 
 </body>
-<footer>
-    <?php include "../_includes/footer.php" ?>
-</footer>
 </html>
 
