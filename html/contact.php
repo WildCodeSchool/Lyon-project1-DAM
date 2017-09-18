@@ -15,8 +15,6 @@ if ($_POST){
 <html lang="en">
 
 <?php include "../_includes/head.php" ?>
-<!-- header -->
-<?php include "../_includes/header.php" ?>
 <body>
 
 <!-- Navigation bar -->
@@ -24,8 +22,10 @@ if ($_POST){
 
 <!-- Contact -->
 
+
 <div class="container">
     <form class="well form-horizontal" action="" method="POST"  id="contact_form" >
+
         <fieldset>
 
             <!-- Form Name -->
@@ -154,10 +154,9 @@ if ($_POST){
         integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
         crossorigin="anonymous"></script>
 
-</body>
-
 <!-- Footer -->
 <footer>
     <?php include "../_includes/footer.php" ?>
 </footer>
+</body>
 </html>

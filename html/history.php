@@ -2,13 +2,14 @@
 <html lang="en">
 
 <?php include "../_includes/head.php" ?>
-<!-- header -->
-<?php include "../_includes/header.php" ?>
 <body>
 
 <!-- Navigation bar -->
 <?php include "../_includes/navigation.php" ?>
 
+<!-- header -->
+<?php include "../_includes/header.php" ?>
+<!--Main container-->
 
 <div class="container">
     <div class="row">
@@ -38,6 +39,9 @@
 
 
 <div class="panel-body">
+
+    <h3 class="panel-title"></h3>
+
     <div class="container">
         <div class="row">
             <div class="equipe col-sm-1 col-lg-8">
@@ -99,8 +103,8 @@
         integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
         crossorigin="anonymous"></script>
 
-</body>
 <footer>
     <?php include "../_includes/footer.php" ?>
 </footer>
+</body>
 </html>

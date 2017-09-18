@@ -2,9 +2,7 @@
 <html lang="en">
 
 <?php include "../_includes/head.php" ?>
-<!-- header -->
 <body>
-<?php include "../_includes/header.php" ?>
 
 <!-- Navigation bar -->
 
@@ -13,6 +11,8 @@
 <!-- Main container -->
 
 <div class="container-fluid">
+    <!-- header -->
+    <?php include "../_includes/header.php" ?>
 
     <div class="row">
         <div class="text col-lg-3">
@@ -61,8 +61,8 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-</body>
 <footer>
     <?php include "../_includes/footer.php" ?>
 </footer>
+</body>
 </html>

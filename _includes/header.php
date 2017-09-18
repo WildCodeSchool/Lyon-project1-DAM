@@ -5,12 +5,13 @@
         </div>
     </div>
 
+
     <div class="col-lg-3">
 
 
     </div>
     <div class="col-lg-3">
         <img class="logoHeader" src="../images/logo.png" style="width: 20vw; height: 15vw" alt="hamburger" />
-    </div>
 
+    </div>
 </div>

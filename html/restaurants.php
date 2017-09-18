@@ -2,8 +2,6 @@
 <html lang="en">
 
 <?php include "../_includes/head.php" ?>
-<!-- header -->
-<?php include "../_includes/header.php" ?>
 <body>
 
 <!-- Navigation bar -->
@@ -12,7 +10,10 @@
 
 <!-- restaurants locations -->
 
-<div class="container">
+<div class="container-fluid ">
+
+    <!-- header -->
+    <?php include "../_includes/header.php" ?>
 
 <!--Resto Bordeaux -->
     <h1>Nos Restaurants :<br> <br></h1>
@@ -184,8 +185,8 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"></script>
 
-</body>
 <footer>
     <?php include "../_includes/footer.php" ?>
 </footer>
+</body>
 </html>
