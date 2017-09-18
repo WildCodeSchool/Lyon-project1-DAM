@@ -5,8 +5,8 @@ $errors = array();
 if ($_POST){
 
     if (count($errors) == 0){
-    header("Location: send.php");
-    exit();
+        header("Location: send.php");
+        exit();
     };
 }
 ?>
@@ -25,7 +25,7 @@ if ($_POST){
 <!-- Contact -->
 
 <div class="container">
-    <form class="well form-horizontal" action=" " method="POST"  id="contact_form" >
+    <form class="well form-horizontal" action="" method="POST"  id="contact_form" >
         <fieldset>
 
             <!-- Form Name -->

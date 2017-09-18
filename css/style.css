@@ -205,10 +205,43 @@ footer{
     bottom: 0;
     width: 100%;
 }
-
+/* history page */
 .passion{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color:#BE4F3B;
+    border-radius:20px;
+    color: white;
+    margin-top: 30px;
+
+
+}
+
+.panel-body{
+
+    background-color: #FFF7F0;
+
+
+}
+
+.panel-heading{
+    background-color: #F0882D;
+}
+
+.equipe{
     text-align: center;
     background-color: #FFBD4F;
-
+    border-radius: 20px;
     color: white;
+    margin-top: 30px;
+}
+
+
+.logoHeader {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 800px;
+    margin-bottom: 30px;
 }

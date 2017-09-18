@@ -17,8 +17,7 @@
         <strong>Les questions que l'on peut se poser avant de manger des insectes</strong>
     </h1>
 
-    <h2 id="faq_1"
-    ><strong>Pourquoi manger des insectes ?</strong>
+    <h2 id="faq_1"><strong>Pourquoi manger des insectes ?</strong>
     </h2>
 
     <p>
