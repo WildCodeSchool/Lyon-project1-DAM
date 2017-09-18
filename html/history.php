@@ -54,14 +54,12 @@
                     nisl sit amet erat. Duis semper. </p>
             </div>
             <div class="col-sm-1 col-lg-2 col-lg-offset-1">
-                <img src="http://damienarmente.com/wp-content/uploads/2014/04/damien-armente-profil.jpg"
-                     width="200" alt="Damien"/>
+                <img src="../images/damien.png" width="200" alt="Damien"/>
             </div>
         </div>
         <div class="row">
             <div class="col-sm-1 col-lg-2">
-                <img src="https://wildcodeschool.fr/wp-content/uploads/2017/01/laurent-1.jpg"
-                     width="200" alt="Laurent"/>
+                <img src="../images/laurent.jpg" width="200" alt="Laurent"/>
             </div>
             <div class="equipe col-sm-1 col-lg-8 col-lg-offset-1">
                 <p>« Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -84,8 +82,7 @@
                     nisl sit amet erat. Duis semper. </p>
             </div>
             <div class="col-sm-1 col-lg-2 col-lg-offset-1">
-                <img src="http://damienarmente.com/wp-content/uploads/2014/04/damien-armente-profil.jpg"
-                     width="200" alt="Damien"/>
+                <img src="../images/julien.jpg" width="200" alt="Julien"/>
             </div>
         </div>
 
