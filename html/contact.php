@@ -15,7 +15,6 @@ if ($_POST){
 <html lang="en">
 
 <?php include "../_includes/head.php" ?>
-
 <body>
 
 <!-- Navigation bar -->
@@ -23,10 +22,11 @@ if ($_POST){
 
 <!-- Contact -->
 
-<img class="displayed" src="https://media.mercola.com/ImageServer/Public/2015/December/organic-food-on-board-fb.jpg" style="width: 50%; height: 50%; margin-top: auto" alt="organic" />
+<div class="container-fluid">
 
-<br>
-<div class="container">
+    <!-- header -->
+    <?php include "../_includes/header.php" ?>
+
     <form class="well form-horizontal" action=" " method="POST"  id="contact_form" >
         <fieldset>
 
@@ -156,10 +156,9 @@ if ($_POST){
         integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
         crossorigin="anonymous"></script>
 
-</body>
-
 <!-- Footer -->
 <footer>
     <?php include "../_includes/footer.php" ?>
 </footer>
+</body>
 </html>

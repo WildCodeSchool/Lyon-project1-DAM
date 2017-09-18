@@ -10,6 +10,8 @@
 
 <!-- Main container -->
 <div class="container-fluid">
+    <!-- header -->
+    <?php include "../_includes/header.php" ?>
 
     <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -55,7 +57,7 @@
             </div>
             <div>
 
-                </p>
+
             </div>
         </div>
 
@@ -64,7 +66,7 @@
     </div>
 
 </div>
-</div>
+
 
 
 <script src="https://use.fontawesome.com/2e8d9444e4.js"></script>
@@ -78,8 +80,8 @@
 
 
 
-</body>
 <footer>
     <?php include "../_includes/footer.php" ?>
 </footer>
+</body>
 </html>

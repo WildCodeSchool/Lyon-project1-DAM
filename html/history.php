@@ -2,7 +2,6 @@
 <html lang="en">
 
 <?php include "../_includes/head.php" ?>
-
 <body>
 
 <!-- Navigation bar -->
@@ -10,12 +9,17 @@
 
 <div>
 
-    <h3 class="panel-title">History</h3>
+    <!-- header -->
+    <?php include "../_includes/header.php" ?>
+    <!--Main container-->
+
+    <h3 class="panel-title"></h3>
     <div class="container">
         <div class="row">
             <div class="col-sm-1 col-lg-10">
                 <h1 class="page-header">LA PASSION <br/><b>DU BURGER</b></h1>
 
+                    <div class="passion">
                 <p>
                     Bug Burger est une histoire d’hommes et de passion. Une aventure portée par deux entrepreneurs
                     lyonnais amoureux de la bonne cuisine.
@@ -29,7 +33,7 @@
                     Leur objectif ? Vous permettre de déguster en moins d’une demi-heure des burgers cuisinés avec
                     des ingrédients exotiques locaux de qualité !
                 </p>
-
+                    </div>
             </div>
             <div class="col-sm-1 col-lg-2">
                 <a href="https://placeholder.com"><img src="http://via.placeholder.com/140x140"></a>
@@ -89,8 +93,8 @@
                         integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
                         crossorigin="anonymous"></script>
 
-</body>
 <footer>
     <?php include "../_includes/footer.php" ?>
 </footer>
+</body>
 </html>
