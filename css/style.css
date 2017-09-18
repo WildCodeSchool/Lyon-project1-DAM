@@ -150,3 +150,65 @@ nav ul,nav li {
     border-radius: 10%;
     color: white;
 }
+
+.text{
+    text-align: center;
+    background-color: #FFBD4F;
+    border-radius: 10%;
+    color: white;
+}
+
+
+
+.logo{
+    display: block;
+    margin-top: 20%;
+
+    font-family: Cabin Sketch;
+    color: #454D56;
+    font-size: 80px;
+
+}
+
+h3
+{
+    color: #454D56;
+    text-align: center;
+}
+
+img{
+    margin-top: 10%;
+}
+
+body
+{
+    margin-left: 70px;
+    background-color: #FFF7F0;
+    font-family: Patrick Hand, cursive;
+    font-size: 20px;
+
+}
+
+img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+    margin-top: 5%;
+
+}
+
+footer{
+    background-color: #F0882D;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.passion{
+    text-align: center;
+    background-color: #FFBD4F;
+
+    color: white;
+}

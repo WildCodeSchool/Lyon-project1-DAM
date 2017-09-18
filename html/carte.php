@@ -56,7 +56,7 @@
             </div>
             <div>
 
-                </p>
+
             </div>
         </div>
 
@@ -65,7 +65,7 @@
     </div>
 
 </div>
-</div>
+
 
 
 <script src="https://use.fontawesome.com/2e8d9444e4.js"></script>
