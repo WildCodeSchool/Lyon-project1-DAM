@@ -2,8 +2,7 @@
 <html lang="en">
 
 <?php include "../_includes/head.php" ?>
-<!-- header -->
-<?php include "../_includes/header.php" ?>
+
 <body>
 
 <!-- Navigation bar -->
@@ -11,6 +10,8 @@
 
 <!-- Main container -->
 <div class="container-fluid">
+    <!-- header -->
+    <?php include "../_includes/header.php" ?>
 
     <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -79,8 +80,8 @@
 
 
 
-</body>
 <footer>
     <?php include "../_includes/footer.php" ?>
 </footer>
+</body>
 </html>

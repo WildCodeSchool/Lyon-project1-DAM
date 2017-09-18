@@ -2,14 +2,16 @@
 <html lang="en">
 
 <?php include "../_includes/head.php" ?>
-<!-- header -->
-<?php include "../_includes/header.php" ?>
 <body>
 
 <!-- Navigation bar -->
 <?php include "../_includes/navigation.php" ?>
 
 <div>
+
+    <!-- header -->
+    <?php include "../_includes/header.php" ?>
+    <!--Main container-->
 
     <h3 class="panel-title"></h3>
     <div class="container">
@@ -91,8 +93,8 @@
                         integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
                         crossorigin="anonymous"></script>
 
-</body>
 <footer>
     <?php include "../_includes/footer.php" ?>
 </footer>
+</body>
 </html>
