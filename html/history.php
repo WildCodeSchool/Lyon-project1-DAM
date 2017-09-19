@@ -13,7 +13,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="passion col-sm-1 col-lg-12">
+        <div class="passion col-sm-12 col-lg-12">
             <h1 class="page-header">LA PASSION <br/><b>DU BURGER</b></h1>
 
 
@@ -44,7 +44,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="equipe col-sm-1 col-lg-8">
+            <div class="equipe col-sm-12 col-lg-8">
                 <p>« Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies
                     sed, dolor.
@@ -53,15 +53,15 @@
                     Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam
                     nisl sit amet erat. Duis semper. </p>
             </div>
-            <div class="col-sm-1 col-lg-2 col-lg-offset-1">
+            <div class="col-sm-12 col-lg-2 col-lg-offset-1">
                 <img src="../images/damien.png" width="200" alt="Damien"/>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-1 col-lg-2">
-                <img src="../images/laurent.jpg" width="200" alt="Laurent"/>
+            <div class="col-sm-12 col-lg-2">
+                <img src="../images/laurent.jpg" width="200" height="200" alt="Laurent"/>
             </div>
-            <div class="equipe col-sm-1 col-lg-8 col-lg-offset-1">
+            <div class="equipe col-sm-12 col-lg-8 col-lg-offset-1">
                 <p>« Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec,
                     ultricies sed, dolor.
@@ -72,7 +72,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="equipe col-sm-1 col-lg-8">
+            <div class="equipe col-sm-12 col-lg-8">
                 <p>« Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies
                     sed, dolor.
@@ -81,7 +81,7 @@
                     Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam
                     nisl sit amet erat. Duis semper. </p>
             </div>
-            <div class="col-sm-1 col-lg-2 col-lg-offset-1">
+            <div class="col-sm-12 col-lg-2 col-lg-offset-1">
                 <img src="../images/julien.jpg" width="200" alt="Julien"/>
             </div>
         </div>

@@ -8,8 +8,8 @@
     <?php include "../_includes/navigation.php" ?>
 
     <!-- Main container -->
-
 <div class="container-fluid">
+
     <!-- header -->
     <?php include "../_includes/header.php" ?>
 
