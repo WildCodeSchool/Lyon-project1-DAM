@@ -10,7 +10,7 @@
 
 <!-- restaurants locations -->
 
-<div class="container-fluid ">
+<div class="container">
 
     <!-- header -->
     <?php include "../_includes/header.php" ?>

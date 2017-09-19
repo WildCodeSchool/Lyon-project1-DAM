@@ -9,12 +9,12 @@
 <?php include "../_includes/navigation.php" ?>
 
 <!-- Main container -->
-<div class="container-fluid">
+<div class="container">
     <!-- header -->
     <?php include "../_includes/header.php" ?>
 
     <div class="row">
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="passion col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div>
                 <h1>NOS BURGERS</h1>
             </div>
@@ -24,7 +24,7 @@
             </p>
         </div>
         
-        <div class="slider slider-for">
+        <div class="equipe col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div>
                 <h4>LE <b>JIMINY</b> BURGER </h4>
                 <p>
