@@ -28,7 +28,7 @@
     bottom:0;
     height:100%;
     left:0;
-    width:60px;
+    width:70px;
     overflow:hidden;
     -webkit-transition:width .05s linear;
     transition:width .05s linear;
@@ -37,7 +37,7 @@
 }
 
 .main-menu>ul {
-    margin:40px 0;
+    margin:40px 8px;
 }
 
 .main-menu li {
@@ -75,7 +75,7 @@
     position:relative;
     display:table-cell;
     vertical-align:middle;
-    width:190px;
+    width:180px;
     font-family: 'Titillium Web', sans-serif;
 }
 
