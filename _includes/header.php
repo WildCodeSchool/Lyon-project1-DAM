@@ -11,7 +11,7 @@
 
     </div>
     <div class="col-lg-3">
-        <img class="logoHeader" src="../images/burger_animation.gif" style="width: 20vw; height: 15vw" alt="hamburger" />
+        <img class="logoHeader" src="../images/logo.png" style="width: 20vw; height: 15vw" alt="hamburger" />
 
     </div>
 </div>
