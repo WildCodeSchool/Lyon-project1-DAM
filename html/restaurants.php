@@ -14,10 +14,10 @@
 
     <!-- header -->
     <?php include "../_includes/header.php" ?>
-
-<!--Resto Bordeaux -->
-    <h1>Nos Restaurants :<br> <br></h1>
-
+    <div class="title">
+        <h1>Nos Restaurants :<br> <br></h1>
+    </div>
+    <!--Resto Bordeaux -->
     <div class="row">
         <div class="col-md-8">
 
