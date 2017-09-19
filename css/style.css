@@ -147,8 +147,6 @@ nav ul,nav li {
     background-color: #FFBD4F;
     border-radius: 30px;
     color: #454D56;
-    margin-top: 6%;
-    margin-bottom: 30px;
 }
 
 .text{
@@ -213,17 +211,6 @@ footer{
     margin-top: 30px;
 
 }
-
-.panel-body{
-
-    background-color: #FFF7F0;
-
-}
-
-.panel-heading{
-    background-color: #F0882D;
-}
-
 .equipe{
     text-align: center;
     background-color: #FFBD4F;
@@ -232,6 +219,17 @@ footer{
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+.panel-body{
+
+background-color: #FFF7F0;
+
+}
+
+.panel-heading{
+background-color: #F0882D;
+}
+
 
 .logoHeader {
     display: flex;
@@ -256,5 +254,4 @@ footer{
     color: white;
     margin-top: 30px;
     margin-bottom: 30px;
-
 }
