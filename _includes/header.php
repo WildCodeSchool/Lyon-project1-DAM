@@ -1,8 +1,6 @@
 <div class="row">
     <div class="col-lg-3 col-lg-offset-1">
-        <div class="logo">
-            BugBurger
-        </div>
+        <div class="logo"><a href="../html/index.php"> BugBurger</a></div>
     </div>
 
 
@@ -11,7 +9,6 @@
 
     </div>
     <div class="col-lg-3">
-        <img class="logoHeader" src="../images/logo.png" style="width: 20vw; height: 15vw" alt="hamburger" />
-
+        <a href="../html/index.php"><img class="logoHeader" src="../images/logo.png" style="width: 20vw; height: 15vw" alt="hamburger" /></a>
     </div>
 </div>
