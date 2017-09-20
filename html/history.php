@@ -2,6 +2,7 @@
 <html lang="en">
 
 <?php include "../_includes/head.php" ?>
+
 <body>
 
 <!-- Navigation bar -->
@@ -15,8 +16,6 @@
     <div class="row">
         <div class="passion col-sm-12 col-lg-12">
             <h1 class="page-header">LA PASSION <br/><b>DU BURGER</b></h1>
-
-
             <p>
                 Bug Burger est une histoire d’hommes et de passion. Une aventure portée par trois entrepreneurs
                 lyonnais amoureux de la bonne cuisine.
@@ -31,18 +30,11 @@
                 Leur objectif ? Vous permettre de déguster en moins d’une demi-heure des burgers cuisinés avec
                 des ingrédients exotiques locaux de qualité !
             </p>
-
         </div>
-
     </div>
-</div>
-
 
 <div class="panel-body">
-
     <h3 class="panel-title"></h3>
-
-    <div class="container">
         <div class="row">
             <div class="equipe col-sm-12 col-lg-8">
                 <p>"
@@ -77,9 +69,9 @@
             </div>
         </div>
         <div class="row">
-            <div class="team col-sm-12 col-lg-2">
-                <img src="../images/laurent.jpg" width="200" height="200" alt="Laurent"/>
-            </div>
+                <div class="team col-sm-12 col-lg-2">
+                    <img src="../images/laurent.jpg" width="200" height="200" alt="Laurent"/>
+                </div>
             <div class="equipe col-sm-12 col-lg-8 col-lg-offset-1">
                 <p>"Je pense que l’exigence de qualité va devenir de plus en plus grande.
                     Le bio et l’éthique gagnent chaque jour du terrain.<br>
@@ -93,8 +85,6 @@
 
                     <i>Laurent Aubertin</i>
                 </p>
-
-
             </div>
         </div>
         <div class="row">
@@ -119,11 +109,10 @@
                     <i>Julien Boyer</i>
                 </p>
             </div>
-            <div class="team col-sm-12 col-lg-2 col-lg-offset-1">
-                <img src="../images/julien.jpg" width="200" alt="Julien"/>
-            </div>
+                <div class="team col-sm-12 col-lg-2 col-lg-offset-1">
+                    <img src="../images/julien.jpg" width="200" alt="Julien"/>
+                </div>
         </div>
-
     </div>
 </div>
 
