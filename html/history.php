@@ -45,43 +45,81 @@
     <div class="container">
         <div class="row">
             <div class="equipe col-sm-12 col-lg-8">
-                <p>« Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies
-                    sed, dolor.
-                    Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod
-                    non, mi.
-                    Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam
-                    nisl sit amet erat. Duis semper. </p>
+                <p>"
+                    Je me suis rendu compte très tôt
+                    que j'ignorais la matière première.<br>
+
+                    Je l'ai découverte, regardée, mangée,
+                    touchée pour construire mon
+                    univers sensoriel et écrire mon
+                    garde-manger.<br>
+
+                    J'ingérais, digérais cette découverte
+                    et le résultat devint au fil des jours
+                    plus harmonieux.<br>
+
+                    Petit à petit j'entraînais le produit
+                    dans un nouvel univers, ébahi chaque
+                    instant par l'infini des saveurs.<br>
+
+                    Je veux alors mettre dans ma cuisine
+                    du sentiment et de l'intelligence.
+                    L'homme a besoin de poésie, de
+                    tendresse et de choses bien faites.<br>
+                    L'équilibre
+                    de l'assiette."<br>
+
+                    <i>Damien Armenté</i>
+                </p>
             </div>
-            <div class="col-sm-12 col-lg-2 col-lg-offset-1">
+            <div class="team col-sm-12 col-lg-2 col-lg-offset-1">
                 <img src="../images/damien.png" width="200" alt="Damien"/>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-12 col-lg-2">
+            <div class="team col-sm-12 col-lg-2">
                 <img src="../images/laurent.jpg" width="200" height="200" alt="Laurent"/>
             </div>
             <div class="equipe col-sm-12 col-lg-8 col-lg-offset-1">
-                <p>« Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec,
-                    ultricies sed, dolor.
-                    Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue,
-                    euismod non, mi.
-                    Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam
-                    nisl sit amet erat. Duis semper. </p>
+                <p>"Je pense que l’exigence de qualité va devenir de plus en plus grande.
+                    Le bio et l’éthique gagnent chaque jour du terrain.<br>
+
+                    Nos comportements alimentaires ne cessent d’évoluer<br>
+                    et nous mangerons différemment dans vingt ans…<br>
+
+                    Comme nous mangeons déjà différemment de nos grands-parents.<br>
+                    Pour nourrir ses contemporains,
+                    le cuisinier doit donc être à l’écoute du monde qui l’entoure !"<br>
+
+                    <i>Laurent Aubertin</i>
+                </p>
+
+
             </div>
         </div>
         <div class="row">
             <div class="equipe col-sm-12 col-lg-8">
-                <p>« Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies
-                    sed, dolor.
-                    Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod
-                    non, mi.
-                    Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam
-                    nisl sit amet erat. Duis semper. </p>
+                <p>"Il donne à voir, il donne à partager. Et moi j'aime ce partage.
+                    J'ai besoin de mettre de la poésie dans les assiettes.<br>
+
+                    La présentation, le dressage m'apprennent l'harmonie et me
+                    font rencontrer une forme de paix.<br>
+
+                    Il me faut toujours positionner visuellement ma cuisine. Mon
+                    instinct me guide, me fait appréhender qualités et défauts,
+                    amène parfois de nouvelles saveurs à mon insu.<br>
+
+                    La composition d'une assiette doit être très construite, lisible,
+                    singulière et je m'attache à trouver le moyen à la fois de
+                    m'émouvoir et donner du plaisir.<br>
+
+                    C'est pour moi une cuisine humaine qui exige de l'humilité de
+                    la part du cuisinier comme de celui qui goûte le plat."<br>
+
+                    <i>Julien Boyer</i>
+                </p>
             </div>
-            <div class="col-sm-12 col-lg-2 col-lg-offset-1">
+            <div class="team col-sm-12 col-lg-2 col-lg-offset-1">
                 <img src="../images/julien.jpg" width="200" alt="Julien"/>
             </div>
         </div>
