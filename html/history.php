@@ -18,7 +18,7 @@
 
 
             <p>
-                Bug Burger est une histoire d’hommes et de passion. Une aventure portée par deux entrepreneurs
+                Bug Burger est une histoire d’hommes et de passion. Une aventure portée par trois entrepreneurs
                 lyonnais amoureux de la bonne cuisine.
             </p>
             <p>
