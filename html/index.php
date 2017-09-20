@@ -6,12 +6,12 @@
 
     <!-- Navigation bar -->
     <?php include "../_includes/navigation.php" ?>
-
-    <!-- Main container -->
-<div class="container-fluid">
-
     <!-- header -->
     <?php include "../_includes/header.php" ?>
+
+    <!-- Main container -->
+    <div class="container-fluid">
+
 
     <div class="row"> <!-- First row -->
         <div class="text col-md-4 col-xs-10 ">

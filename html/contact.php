@@ -46,11 +46,11 @@ if($_POST)
 
 <!-- Contact -->
 
+<!-- header -->
+<?php include "../_includes/header.php" ?>
 
 <div class="container">
 
-    <!-- header -->
-    <?php include "../_includes/header.php" ?>
 
     <form class="well form-horizontal" action="" method="POST"  id="contact_form" >
 

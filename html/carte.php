@@ -7,11 +7,11 @@
 
 <!-- Navigation bar -->
 <?php include "../_includes/navigation.php" ?>
+<!-- header -->
+<?php include "../_includes/header.php" ?>
 
 <!-- Main container -->
 <div class="container">
-    <!-- header -->
-    <?php include "../_includes/header.php" ?>
 
     <div class="row">
         <div class="passion col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -23,7 +23,7 @@
                 et constante en toute saison !
             </p>
         </div>
-        
+
         <div class="equipe col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div>
                 <h4>LE <b>JIMINY</b> BURGER </h4>

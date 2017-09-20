@@ -7,13 +7,13 @@
 <!-- Navigation bar -->
 
 <?php include "../_includes/navigation.php" ?>
+<!-- header -->
+<?php include "../_includes/header.php" ?>
 
 <!-- restaurants locations -->
 
 <div class="container">
 
-    <!-- header -->
-    <?php include "../_includes/header.php" ?>
 
     <div class="title">
         <h1>Nos Restaurants :<br> <br></h1>
