@@ -14,7 +14,7 @@
 
 
     <div class="row"> <!-- First row -->
-        <div class="text col-md-4 col-xs-10 ">
+        <div class="text col-md-4 col-xs-10 col-xs-pull-1 col-md-pull-0 ">
             <h3>Le saviez vous ?</h3>
                 <p>Durables
 
@@ -24,11 +24,11 @@
                     En plus de leur croustillant, ils offrent des bénéfices environnementaux remarquables.<br>
                 </p>
         </div>
-        <div class="col-md-4 col-xs-10">
-            <img class="displayed" src= "../images/burger.png" style= "width: 300px; height: 300px" alt="chenille" />
+        <div class="col-xs-10 col-md-4  col-xs-push-1 col-md-push-0  ">
+            <img class="img-responsive" src= "../images/burger.png" style= "width: 300px; height: 300px" alt="chenille" />
         </div>
 
-        <div class="text col-md-4 col-xs-10">
+        <div class="text col-md-4 col-xs-10 col-xs-pull-1 col-md-pull-0 ">
             <h3>Le saviez vous ?</h3>
                 <p>
                     Nos insectes comestibles n'ont jamais pris l'avion et nous en sommes fiers.<br>
@@ -41,14 +41,14 @@
     <hr>
 
     <div class="row"> <!-- Second row -->
-            <div class="col-md-4 col-xs-10">
-                <img class="displayed" src="../images/Burger-800x600_visuel_large.jpg" style="width: 300px; height: 300px" alt="sauterelle" />
+            <div class="col-md-4 col-xs-10 col-xs-push-1 col-md-push-0">
+                <img class="img-responsive" src="../images/Burger-800x600_visuel_large.jpg" style="width: 300px; height: 300px" alt="sauterelle" />
 
         </div>
-            <div class="col-md-push-4 col-md-4 col-xs-10">
-                <img class="displayed" src="../images/cover-r4x3w1000-58aec3be85f28-bioburger_BioBurger_hero.jpg" style="width: 300px; height: 300px" alt="bio" />
+            <div class="col-md-push-4 col-md-4 col-xs-10 col-xs-push-1">
+                <img class="img-responsive" src="../images/cover-r4x3w1000-58aec3be85f28-bioburger_BioBurger_hero.jpg" style="width: 300px; height: 300px" alt="bio" />
         </div>
-        <div class="text col-md-pull-4 col-md-4 col-xs-10">
+        <div class="text col-md-pull-4 col-md-4 col-xs-10 col-xs-pull-1">
             <h3>Le saviez vous ?</h3>
                 <p>Nos insectes ne mangent que les meilleurs légumes et céréales,<br>
                     vivent agréablement et à leur rythme. <br>
@@ -61,17 +61,17 @@
     <hr>
 
     <div class="row"> <!-- Third row -->
-        <div class="col-md-push-4 col-md-4 col-xs-10">
-            <img class="displayed" src="../images/restaurant-le-zinc-a-burger-lyon-470x317.jpg" style="width: 300px; height: 300px" alt="cicket" />
+        <div class="col-md-push-4 col-md-4 col-xs-10 col-xs-push-1">
+            <img class="img-responsive" src="../images/restaurant-le-zinc-a-burger-lyon-470x317.jpg" style="width: 300px; height: 300px" alt="cicket" />
         </div>
-        <div class="text col-md-pull-4 col-md-4 col-xs-10">
+        <div class="text col-md-pull-4 col-md-4 col-xs-10 col-xs-pull-1">
             <h3>Le saviez vous ?</h3>
                 <p>Parce que nous les élevons dans les meilleures conditions, nos insectes sont plus riches en protéines et en omega-3.<br>
                   Les burgers BugBurger sont assez sidérants : quantité de protéines, des vitamines, en veux-tu en voilà, des fibres...
 
                 </p>
         </div>
-        <div class="text col-md-4 col-xs-10">
+        <div class="text col-md-4 col-xs-10 col-xs-pull-1 col-md-pull-0">
             <h3>Le saviez vous ?</h3>
                 <p>Un insecte comestible pour l'équivalent d'un bœuf c'est :<br>
                    <strong>7 x moins de végétaux <br>
