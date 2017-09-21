@@ -57,7 +57,6 @@
     -webkit-transform:translateZ(0) scale(1,1);
     -webkit-transition:all .1s linear;
     transition:all .1s linear;
-
 }
 
 .main-menu .nav-icon {
@@ -155,6 +154,7 @@ nav ul,nav li {
     color: #454D56;
 }
 
+/* header logo*/
 .logo{
     display: block;
     margin-top: 20%;
@@ -173,15 +173,12 @@ h3
     text-align: center;
 }
 
-
-
 body
 {
     margin-left: 70px;
     background-color: #FFF7F0;
     font-family: Neucha, cursive;
     font-size: 20px;
-
 }
 
 img{
@@ -189,8 +186,6 @@ img{
     margin-left: auto;
     margin-right: auto;
     border-radius: 10%;
-
-
 }
 
 footer{
@@ -210,7 +205,6 @@ footer{
     border-radius:30px;
     color: white;
     margin-top: 30px;
-
 }
 .equipe{
     text-align: center;
@@ -229,7 +223,6 @@ footer{
 background-color: #F0882D;
 }
 
-
 .logoHeader {
     display: flex;
     margin-left: auto;
@@ -237,8 +230,6 @@ background-color: #F0882D;
     border-radius: 800px;
     margin-bottom: 30px;
 }
-
-
 
 /* center images for small devices*/
 @media only screen and (max-width: 1000px) {
