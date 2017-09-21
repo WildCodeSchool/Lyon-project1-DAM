@@ -9,6 +9,6 @@
 
     </div>
     <div class="col-lg-3">
-        <a href="../html/index.php"><img class="logoHeader" src="../images/logo.png" style="width: 20vw; height: 15vw" alt="hamburger" /></a>
+        <a id="logoText" href="../html/index.php"><img class="logoHeader" src="../images/logo.png" style="width: 20vw; height: 15vw" alt="hamburger" /></a>
     </div>
 </div>

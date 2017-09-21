@@ -159,11 +159,13 @@ nav ul,nav li {
 .logo{
     display: block;
     margin-top: 20%;
-
     font-family: Cabin Sketch;
     color: #454D56;
     font-size: 80px;
+}
 
+.logo >a{
+    color: #454D56;
 }
 
 h3
@@ -236,6 +238,8 @@ background-color: #F0882D;
     border-radius: 800px;
     margin-bottom: 30px;
 }
+
+
 
 /* center images for small devices*/
 @media only screen and (max-width: 1000px) {
