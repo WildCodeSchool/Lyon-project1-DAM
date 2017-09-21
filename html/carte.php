@@ -25,6 +25,52 @@
         </div>
 
         <div class="equipe col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                    <li data-target="#myCarousel" data-slide-to="4"></li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <img src="../images/burger.png" alt="JIMINY">
+                        <div class="carousel-caption">
+                            <h2>LE <b>JIMINY</b> BURGER </h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="../images/pagnol.jpg" alt="PAGNOL">
+                        <div class="carousel-caption">
+                            <h2>LE <b>PAGNOL</b> BURGER </h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="../images/spiderman.jpg.jpg" alt="SPIDERMAN">
+                        <div class="carousel-caption">
+                            <h2>LE <b>SPIDERMAN</b> BURGER </h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="../images/veggie.jpg" alt="VEGGIE">
+                        <div class="carousel-caption">
+                            <h2>LE <b>VEGGIE</b> BURGER </h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="../images/chips.jpg" alt="CRIPS">
+                        <div class="carousel-caption">
+                            <h2>LE <b>CRIPS</b></h2>
+                        </div>
+                    </div>
+                </div> <!--end of wrapper -->
+            </div>  <!--end of carousel -->
+
             <div>
                 <h4>LE <b>JIMINY</b> BURGER </h4>
                 <p>
@@ -50,21 +96,15 @@
                 </p>
             </div>
             <div>
-                <h4>LES CRIPS<b> </b> </h4>
+                <h4>LES <b> CRIPS </b> </h4>
                 <p>
                     Succombez au croquant de nos CRIPS fraîches maison !
                 </p>
             </div>
             <div>
-
-
             </div>
         </div>
-
-
-
     </div>
-
 </div>
 
 

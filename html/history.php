@@ -36,7 +36,7 @@
 <div class="panel-body">
     <h3 class="panel-title"></h3>
         <div class="row">
-            <div class="equipe col-sm-12 col-lg-8">
+            <div class="equipe col-sm-12 col-lg-7">
                 <p>"
                     Je me suis rendu compte très tôt
                     que j'ignorais la matière première.<br>
