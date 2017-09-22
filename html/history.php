@@ -15,7 +15,7 @@
 <div class="container">
     <div class="row">
         <div class="passion col-sm-12 col-lg-12">
-            <h1 class="page-header">LA PASSION <br/><b>DU BURGER</b></h1>
+            <h1 class="page-header">LA PASSION <b>DU BURGER</b></h1>
             <p>
                 Bug Burger est une histoire d’hommes et de passion. Une aventure portée par trois entrepreneurs
                 lyonnais amoureux de la bonne cuisine.
@@ -32,7 +32,12 @@
             </p>
         </div>
     </div>
-
+        <div class="row">
+            <div class="passion col-sm-12 col-lg-12">
+                 <h2 class="page-header">LES TROIS PILIERS DE LA CUISINE FRANCAISE</b></h2>
+            </div>
+        </div>
+    <br>
 <div class="panel-body">
     <h3 class="panel-title"></h3>
         <div class="row">
@@ -115,6 +120,7 @@
         </div>
     </div>
 </div>
+<br>
 
 
 <!-- JS scripts -->
