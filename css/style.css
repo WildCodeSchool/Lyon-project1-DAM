@@ -257,5 +257,9 @@ background-color: #F0882D;
 }
 
 a{
-    color: white;
+    color: #454D56;
 }
+
+.foot >a{
+    color: white;
+       }
